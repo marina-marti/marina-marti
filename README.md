@@ -9,10 +9,10 @@ I care a lot about writing code that’s simple, practical, and easy to understa
 ---
 ## 🛠 Tools & Tech
 
-# Languages & Frameworks: Golang, Python, Node.js, React
-# Game Dev: Unity, C#
-# Design & Planning: Figma, Lucidchart, Apple Notes
-# Cloud: AWS
+**Languages & Frameworks:** Golang, Python, Node.js, React
+**Game Dev:** Unity, C#
+**Design & Planning:** Figma, Lucidchart, Apple Notes
+**Cloud:** AWS
 
 ---
 ## 🌱 A Bit About Me 
