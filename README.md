@@ -6,15 +6,16 @@ This is my main GitHub profile, where I share projects, experiments, and things 
 
 I care a lot about writing code that’s simple, practical, and easy to understand solutions over clever ones.
 
----
 ## 🛠 Tools & Tech
 
 **Languages & Frameworks:** Golang, Python, Node.js, React
+
 **Game Dev:** Unity, C#
+
 **Design & Planning:** Figma, Lucidchart, Apple Notes
+
 **Cloud:** AWS
 
----
 ## 🌱 A Bit About Me 
 - I have 3 birds
 - Not a coffee person (yes, really)
